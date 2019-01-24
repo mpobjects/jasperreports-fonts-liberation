@@ -1,6 +1,6 @@
 # jasperreports-fonts-liberation
 
-[JasperReports](https://community.jaspersoft.com/project/jasperreports-library) Fonts Package for the [Liberation font](https://pagure.io/liberation-fonts).
+[JasperReports](https://community.jaspersoft.com/project/jasperreports-library) Fonts Package for the [Liberation font](https://github.com/liberationfonts/liberation-fonts).
 
 The Liberation fonts are free alternatives to the commonly used Arial, Times New Roman, and Courier New fonts. They have the same characteristics, but can be freely distributed.
 As such, this package will register the Liberation Sans, Serif, and Mono fonts are Arial, Times New Roman, and Courier New fonts.
@@ -11,6 +11,6 @@ As such, this package will register the Liberation Sans, Serif, and Mono fonts a
 <dependency>
     <groupId>com.mpobjects.jasperreports.font</groupId>
     <artifactId>jasperreports-fonts-liberation</artifactId>
-    <version>2.00.1</version>
+    <version>2.00.4</version>
 </dependency>
 ```
