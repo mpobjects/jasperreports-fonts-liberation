@@ -1,9 +1,8 @@
-<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
-	xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<modelVersion>4.0.0</modelVersion>
 	<groupId>com.mpobjects.jasperreports.font</groupId>
 	<artifactId>jasperreports-fonts-liberation</artifactId>
-	<version>2.00.4-SNAPSHOT</version>
+	<version>2.00.4</version>
 	<name>liberation</name>
 	<description>JasperReports Font Package Containing the Liberation fonts. This font package will register the fonts as Arial, Times New Roman, and Courier New.</description>
 	<url>https://pagure.io/liberation-fonts</url>
@@ -32,7 +31,8 @@
 		<url>https://github.com/mpobjects/jasperreports-fonts-liberation.git</url>
 		<connection>scm:git:https://github.com/mpobjects/jasperreports-fonts-liberation.git</connection>
 		<developerConnection>scm:git:https://github.com/mpobjects/jasperreports-fonts-liberation.git</developerConnection>
-	</scm>
+	  <tag>jasperreports-fonts-liberation-2.00.4</tag>
+  </scm>
 
 	<issueManagement>
 		<system>github</system>
