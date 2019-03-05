@@ -5,7 +5,7 @@
 	<version>2.00.6-SNAPSHOT</version>
 	<name>liberation</name>
 	<description>JasperReports Font Package Containing the Liberation fonts. This font package will register the fonts as Arial, Times New Roman, and Courier New.</description>
-	<url>https://pagure.io/liberation-fonts</url>
+	<url>https://github.com/liberationfonts</url>
 
 	<licenses>
 		<license>
