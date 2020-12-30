@@ -13,6 +13,6 @@ As such, this package will register the Liberation Sans, Serif, and Mono fonts a
 <dependency>
     <groupId>com.mpobjects.jasperreports.font</groupId>
     <artifactId>jasperreports-fonts-liberation</artifactId>
-    <version>2.1.0</version>
+    <version>2.1.2</version>
 </dependency>
 ```
